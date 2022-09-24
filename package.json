@@ -1,5 +1,5 @@
 {
-  "name": "JATE",
+  "name": "jate",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
@@ -19,7 +19,15 @@
     "if-env": "^1.0.4"
   },
   "devDependencies": {
-    "concurrently": "^5.2.0",
+    "concurrently": "^5.3.0",
     "nodemon": "^2.0.4"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndyBoyee604/PWA-Text-Editor.git"
+  },
+  "bugs": {
+    "url": "https://github.com/AndyBoyee604/PWA-Text-Editor/issues"
+  },
+  "homepage": "https://github.com/AndyBoyee604/PWA-Text-Editor#readme"
 }
